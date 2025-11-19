@@ -17,7 +17,7 @@ Parcial3/
 │ ├── main.py → Ejecutable. Contiene generar_gramatica_atributos()
 │ └── ejemplo.sql → Ejemplo de programa
 │
-└── Punto2/
+└── Punto2_y_Punto3/
 ├── Matrices.g4 → Gramática ANTLR (matrices)
 ├── visitor.py → Visitor con validación de dimensiones
 ├── main.py → Ejecutable. Contiene generar_gramatica_atributos()
@@ -42,7 +42,7 @@ antlr4 -Dlanguage=Python3 -visitor CrudLang.g4
 python3 main.py ejemplo.sql
 ```
 
-### Punto 2 (Matrices)
+### Punto 2 y Punto 3 (Matrices)
 
 ```bash
 cd Punto2
@@ -63,7 +63,7 @@ python3 main.py test.m
  ¡Gramática de atributos generada y aplicada correctamente!
 ```
 
-### Punto 2
+### Punto 2 y Punto 3
 ```bash
 2x3 × 3x2 = 2x2
 ¡Listo!
