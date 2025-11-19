@@ -3,7 +3,7 @@
 Implementación de dos lenguajes usando ANTLR y Python:
 
 - **Punto 1**: Lenguaje SQL-like con operaciones CRUD (CREATE, SELECT, UPDATE, DELETE) y validación semántica mediante gramática de atributos.
-- **Punto 2**: Lenguaje para declaración y multiplicación de matrices con validación de dimensiones (A(m×n) × B(n×p)).
+- **Punto 2 y Punto 3**: Lenguaje para declaración y multiplicación de matrices con validación de dimensiones (A(m×n) × B(n×p)).
 
 ---
 
